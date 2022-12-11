@@ -1,0 +1,10 @@
+https://example.com
+http://example.com
+http://www.example.com/hgflk
+http://example.com/hrkfj?cgh
+https://www.example.com
+www.example.com/fsd-sdfs/
+www.example.net
+www.example.org
+www.example.uk
+https://www.google.com/search?q=whatsapp&oq=whatsapp&aqs=chrome..69i57j69i60.2620j0j7&sourceid=chrome&ie=UTF-8
